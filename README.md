@@ -1,1 +1,1 @@
-# SpringStudy_2024
+# SpringStudy
